@@ -5,10 +5,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/coltonsr77/apm.git"
+    "url": "https://github.com/atom-remastered/apm.git"
   },
   "bugs": {
-    "url": "https://github.com/coltonsr77/apm/issues"
+    "url": "https://github.com/atom-remastered/apm/issues"
   },
   "main": "./lib/apm.js",
   "bin": {
